@@ -15,5 +15,5 @@
 
 # Configuration for the Java Main container
 ---
-java_main_class:
-arguments:
+java_main_class: com.rs.u2.unisoap.server.UniSOAPServer
+arguments: RastusTest
